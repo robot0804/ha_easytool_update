@@ -1,0 +1,1 @@
+# ha_easytool_update
